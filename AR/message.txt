@@ -1,2 +1,3 @@
-Fuck off
-You Stupid Whore
+Welcome to Ventrix!
+User: game.Players.LocalPlayer.Name
+ID: game.Players.LocalPlayer.userId
