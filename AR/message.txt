@@ -1,3 +1,2 @@
 Welcome to Ventrix!
-User: game.Players.LocalPlayer.Name
-ID: game.Players.LocalPlayer.userId
+ [*] Info here >> discord.gg/Z4PeTNsJVv
